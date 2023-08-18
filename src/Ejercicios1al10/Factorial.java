@@ -6,6 +6,7 @@ public class Factorial {
     public  static void main(String[] args) {
         resolverFactorial();
 
+        
     }
     static void resolverFactorial(){
         Scanner input = new Scanner(System.in);
