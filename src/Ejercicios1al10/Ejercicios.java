@@ -6,7 +6,7 @@ public class Ejercicios {
     public static void main(String[] args) {
 
         //Ejercicio 1
-        /*Scanner input = new Scanner(System.in);
+        Scanner input = new Scanner(System.in);
         System.out.println("Ingrese la cantidad de horas trabajadas: ");
         int horas = input.nextInt();
         int costoXHora=40;
@@ -19,7 +19,7 @@ public class Ejercicios {
         }else {
             sueldo=40*costoXHora+8*2*costoXHora+(horas-48)*3*costoXHora;
         }
-        System.out.println("El trabajador recibira: S/. "+sueldo);*/
+        System.out.println("El trabajador recibira: S/. "+sueldo);
 
         //Ejercicio 2
         /*Scanner input = new Scanner(System.in);
@@ -144,7 +144,7 @@ public class Ejercicios {
         }*/
 
         //Ejercicio10
-        Scanner input = new Scanner(System.in);
+        /*Scanner input = new Scanner(System.in);
         int m=(int)(Math.random()*100);
         System.out.println("Se ha generado un numero entre 1 y 100");
         System.out.println("Adivine y pruebe su suerte: ");
@@ -163,7 +163,7 @@ public class Ejercicios {
 
             System.out.println("ADIVINASTE!!!");
             System.out.println("El numero es: "+m);
-            System.out.println("Has realizado "+count+" intentos");
+            System.out.println("Has realizado "+count+" intentos");*/
 
 
 
